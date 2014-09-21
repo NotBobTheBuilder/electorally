@@ -1,0 +1,14 @@
+{
+  "name": "electorally",
+  "version": "1.0.0",
+  "description": "Better voting for the UK General Election",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Wearden",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^1.1.18",
+  }
+}
